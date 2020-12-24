@@ -22,7 +22,7 @@ from telegram import ParseMode
 from telegram.ext import Updater, CommandHandler, run_async
 
 # Name of the environment variable which defines the bot token
-TOKEN_ENV_NAME = 'VIDEO_DL_BOT_TOKEN'
+TOKEN_ENV_NAME = '1487474069:AAFwtFFJ_Zs2t1LUZrLwkikeEKtq2fxTJVE'
 
 # Default download location
 VIDEO_DL_DIR = '/tmp/'
